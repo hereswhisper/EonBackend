@@ -1,0 +1,5038 @@
+{
+  "author": "This list was created by PRO100KatYT",
+  "Season12": {
+    "ChallengeBundleSchedules": [
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Schedule_LTM_S12_SpyGames",
+        "templateId": "ChallengeBundleSchedule:Schedule_LTM_S12_SpyGames",
+        "granted_bundles": ["S12-ChallengeBundle:QuestBundle_S12_SpyGames"]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_ABChallenges_Schedule",
+        "templateId": "ChallengeBundleSchedule:Season12_ABChallenges_Schedule",
+        "granted_bundles": [
+          "S12-ChallengeBundle:MissionBundle_S12_AB_Skulldude",
+          "S12-ChallengeBundle:MissionBundle_S12_AB_TNTina",
+          "S12-ChallengeBundle:MissionBundle_S12_AB_Meowscle",
+          "S12-ChallengeBundle:MissionBundle_S12_AB_AdventureGirl",
+          "S12-ChallengeBundle:MissionBundle_S12_AB_Midas",
+          "S12-ChallengeBundle:MissionBundle_S12_Superlevel"
+        ]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_DonutYachtChallenge_Schedule",
+        "templateId": "ChallengeBundleSchedule:Season12_DonutYachtChallenge_Schedule",
+        "granted_bundles": [
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_YachtChallenge"
+        ]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule",
+        "templateId": "ChallengeBundleSchedule:Season12_Donut_Schedule",
+        "granted_bundles": [
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W1",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W2",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W3",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W4",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W5",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W6",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W7",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W8",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W9",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W7_Dummy",
+          "S12-ChallengeBundle:QuestBundle_S12_Donut_W7_A_ToastForInGame"
+        ]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Feat_BundleSchedule",
+        "templateId": "ChallengeBundleSchedule:Season12_Feat_BundleSchedule",
+        "granted_bundles": ["S12-ChallengeBundle:Season12_Feat_Bundle"]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Jerky_Schedule",
+        "templateId": "ChallengeBundleSchedule:Season12_Jerky_Schedule",
+        "granted_bundles": ["S12-ChallengeBundle:MissionBundle_S12_Jerky"]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule",
+        "templateId": "ChallengeBundleSchedule:Season12_Mission_Schedule",
+        "granted_bundles": [
+          "S12-ChallengeBundle:MissionBundle_S12_Week_01",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_02",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_03",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_04",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_05",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_06",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_07",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_08",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_09",
+          "S12-ChallengeBundle:MissionBundle_S12_Week_10",
+          "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01",
+          "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+        ]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect",
+        "templateId": "ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect",
+        "granted_bundles": [
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_01",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_02",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_03",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_04",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_05",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_06",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_07",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_08",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_09",
+          "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_10"
+        ]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_Oro",
+        "templateId": "ChallengeBundleSchedule:Season12_Schedule_Event_Oro",
+        "granted_bundles": ["S12-ChallengeBundle:QuestBundle_S12_Oro"]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_PeelySpy",
+        "templateId": "ChallengeBundleSchedule:Season12_Schedule_Event_PeelySpy",
+        "granted_bundles": [
+          "S12-ChallengeBundle:QuestBundle_Event_S12_PeelySpy"
+        ]
+      },
+      {
+        "itemGuid": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_StormTheAgency",
+        "templateId": "ChallengeBundleSchedule:Season12_Schedule_Event_StormTheAgency",
+        "granted_bundles": [
+          "S12-ChallengeBundle:QuestBundle_Event_S12_StormTheAgency"
+        ]
+      }
+    ],
+    "ChallengeBundles": [
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_SpyGames",
+        "templateId": "ChallengeBundle:QuestBundle_S12_SpyGames",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_operation_winmatch",
+          "S12-Quest:quest_operation_damageplayers",
+          "S12-Quest:quest_operation_eliminateplayers"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Schedule_LTM_S12_SpyGames"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_AB_AdventureGirl",
+        "templateId": "ChallengeBundle:MissionBundle_S12_AB_AdventureGirl",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_AB_photographer_alter",
+          "S12-Quest:quest_AB_photographer_ego"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_ABChallenges_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_AB_Meowscle",
+        "templateId": "ChallengeBundle:MissionBundle_S12_AB_Meowscle",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_ab_buffcat_alter",
+          "S12-Quest:quest_ab_buffcat_ego"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_ABChallenges_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_AB_Midas",
+        "templateId": "ChallengeBundle:MissionBundle_S12_AB_Midas",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_ab_midas_alter",
+          "S12-Quest:quest_ab_midas_ego"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_ABChallenges_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_AB_Skulldude",
+        "templateId": "ChallengeBundle:MissionBundle_S12_AB_Skulldude",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_AB_skulldude_alter",
+          "S12-Quest:quest_AB_skulldude_ego"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_ABChallenges_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_AB_TNTina",
+        "templateId": "ChallengeBundle:MissionBundle_S12_AB_TNTina",
+        "grantedquestinstanceids": [
+          "S12-Quest:AB_tntina_alter",
+          "S12-Quest:AB_tntina_ego"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_ABChallenges_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Superlevel",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Superlevel",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_style_superlevel_bananaAgent",
+          "S12-Quest:quest_style_superlevel_buffcat",
+          "S12-Quest:quest_style_superlevel_midas",
+          "S12-Quest:quest_style_superlevel_photographer",
+          "S12-Quest:quest_style_superlevel_skulldude",
+          "S12-Quest:quest_style_superlevel_TNTina"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_ABChallenges_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_YachtChallenge",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_YachtChallenge",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_YachtChallenge"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_DonutYachtChallenge_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W1",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W1",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W1_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W1_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W2",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W2",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W2_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W2_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W3",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W3",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W3_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W3_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W4",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W4",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W4_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W4_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W5",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W5",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W5_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W5_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W6",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W6",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W6_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W6_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W7",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W7",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W7_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W7_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W7_A_ToastForInGame",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W7_A_ToastForInGame",
+        "grantedquestinstanceids": [
+          "S12-Quest:Quest_S12_Donut_W7_A_ToastForInGame"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W7_Dummy",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W7_Dummy",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W7_Dummy"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W8",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W8",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W8_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W8_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Donut_W9",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Donut_W9",
+        "grantedquestinstanceids": ["S12-Quest:Quest_S12_Donut_W9_A"],
+        "questStages": ["S12-Quest:Quest_S12_Donut_W9_B"],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Donut_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:Season12_Feat_Bundle",
+        "templateId": "ChallengeBundle:Season12_Feat_Bundle",
+        "grantedquestinstanceids": [
+          "S12-Quest:Feat_Season12_BandageInStorm",
+          "S12-Quest:Feat_Season12_PetPet",
+          "S12-Quest:Feat_Season12_WinDuos",
+          "S12-Quest:Feat_Season12_WinSolos",
+          "S12-Quest:Feat_Season12_WinSquads",
+          "S12-Quest:Feat_Season12_HarvestWoodSingleMatch",
+          "S12-Quest:Feat_Season12_HarvestStoneSingleMatch",
+          "S12-Quest:Feat_Season12_HarvestMetalSingleMatch",
+          "S12-Quest:Feat_Season12_UseMedkitAt1HP",
+          "S12-Quest:Feat_Season12_KillAfterOpeningSupplyDrop",
+          "S12-Quest:Feat_Season12_Lifeguard",
+          "S12-Quest:Feat_Season12_DestroyHollyHedges",
+          "S12-Quest:Feat_Season12_DestroyFishstickDecorations",
+          "S12-Quest:Feat_Season12_EliminateOpponentsPowerPlant",
+          "S12-Quest:Feat_Season12_GainShieldSlurpySwamp",
+          "S12-Quest:Feat_Season12_CatchFishSunnyShores",
+          "S12-Quest:Feat_Season12_LandSalty",
+          "S12-Quest:Feat_Season12_WinSoloManyElims",
+          "S12-Quest:Feat_Season12_EliminateTrapMountainMeadows",
+          "S12-Quest:Feat_Season12_RevivedInFrenzyFarmBarn",
+          "S12-Quest:Feat_Season12_EatFlooper",
+          "S12-Quest:Feat_Season12_EatFlopper",
+          "S12-Quest:Feat_Season12_EatManyFlopper",
+          "S12-Quest:Feat_Season12_EliminateWaterSMG",
+          "S12-Quest:Feat_Season12_WinSolos10",
+          "S12-Quest:Feat_Season12_WinSolos100",
+          "S12-Quest:Feat_Season12_WinDuos10",
+          "S12-Quest:Feat_Season12_WinDuos100",
+          "S12-Quest:Feat_Season12_WinSquads10",
+          "S12-Quest:Feat_Season12_WinSquads100",
+          "S12-Quest:Feat_Season12_WinTeamRumble",
+          "S12-Quest:Feat_Season12_WinTeamRumble100",
+          "S12-Quest:Feat_Season12_ReachLevel110",
+          "S12-Quest:Feat_Season12_ReachLevel250",
+          "S12-Quest:Feat_Season12_CompleteMission",
+          "S12-Quest:Feat_Season12_CompleteAllMissions",
+          "S12-Quest:Feat_Season12_CatchFishBucketNice",
+          "S12-Quest:Feat_Season12_DeathBucketNice",
+          "S12-Quest:Feat_Season12_EliminateBucketNice",
+          "S12-Quest:Feat_Season12_EliminateRocketRiding",
+          "S12-Quest:Feat_Season12_ScoreSoccerGoalPleasant",
+          "S12-Quest:Feat_Season12_HideDumpster",
+          "S12-Quest:Feat_Season12_EliminateHarvestingTool",
+          "S12-Quest:Feat_Season12_EliminateAfterHarpoonPull",
+          "S12-Quest:Feat_Season12_EliminateYeetFallDamage",
+          "S12-Quest:quest_s12_feat_accolade_weaponspecialist_samematch_2",
+          "S12-Quest:quest_s12_feat_accolade_weaponspecialist_samematch_3",
+          "S12-Quest:quest_s12_feat_accolade_weaponspecialist_samematch_4",
+          "S12-Quest:quest_s12_feat_accolade_weaponspecialist_samematch_5",
+          "S12-Quest:quest_s12_feat_accolade_weaponspecialist_samematch_6",
+          "S12-Quest:quest_s12_feat_accolade_weaponspecialist_samematch_7",
+          "S12-Quest:quest_s12_feat_collect_weapon_legendary_oilrig",
+          "S12-Quest:quest_s12_feat_destroy_strawman",
+          "S12-Quest:quest_s12_feat_fishing_explosives",
+          "S12-Quest:quest_s12_feat_fishing_singlematch",
+          "S12-Quest:quest_s12_feat_interact_booth",
+          "S12-Quest:quest_s12_feat_interact_booth_25",
+          "S12-Quest:quest_s12_feat_interact_booth_100",
+          "S12-Quest:quest_s12_feat_interact_coolcarpet_buffcat",
+          "S12-Quest:quest_s12_feat_interact_passage",
+          "S12-Quest:quest_s12_feat_interact_passage_25",
+          "S12-Quest:quest_s12_feat_interact_passage_100",
+          "S12-Quest:quest_s12_feat_interact_vaultdoor",
+          "S12-Quest:quest_s12_feat_interrogate_mang",
+          "S12-Quest:quest_s12_feat_interrogate_opponent",
+          "S12-Quest:quest_s12_feat_interrogate_opponent10",
+          "S12-Quest:quest_s12_feat_kill_gliding",
+          "S12-Quest:quest_s12_feat_use_slurpfish_many",
+          "S12-Quest:quests_s12_feat_reachlevel_gold_bananaagent",
+          "S12-Quest:quests_s12_feat_reachlevel_gold_buffcat",
+          "S12-Quest:quests_s12_feat_reachlevel_gold_henchman",
+          "S12-Quest:quests_s12_feat_reachlevel_gold_tntina",
+          "S12-Quest:quests_s12_feat_reachlevel_gold_midas",
+          "S12-Quest:quests_s12_feat_reachlevel_gold_photograph",
+          "S12-Quest:quest_s12_feat_accolade_weaponexpert_ar",
+          "S12-Quest:quest_s12_feat_accolade_weaponexpert_explosive",
+          "S12-Quest:quest_s12_feat_accolade_weaponexpert_pickaxe",
+          "S12-Quest:quest_s12_feat_accolade_weaponexpert_pistol",
+          "S12-Quest:quest_s12_feat_accolade_weaponexpert_shotgun",
+          "S12-Quest:quest_s12_feat_accolade_weaponexpert_smg",
+          "S12-Quest:quest_s12_feat_accolade_weaponexpert_sniper",
+          "S12-Quest:quest_s12_feat_interact_vaultdoor_25",
+          "S12-Quest:quest_s12_feat_interact_vaultdoor_buffcat",
+          "S12-Quest:quest_s12_feat_throw_consumable",
+          "S12-Quest:quest_s12_feat_emote_tpose_yacht",
+          "S12-Quest:quest_s12_feat_kill_yacht_pickaxe",
+          "S12-Quest:quest_s12_feat_land_sharkrock",
+          "S12-Quest:quest_s12_feat_visit_sharkrock_boat",
+          "S12-Quest:quest_s12_feat_kill_swamp_singlematch",
+          "S12-Quest:quest_s12_feat_killmang_oilrig",
+          "S12-Quest:quest_s12_feat_athenarank_infiltration",
+          "S12-Quest:quest_s12_feat_disguise_infiltration",
+          "S12-Quest:quest_s12_feat_interact_hoagie",
+          "S12-Quest:quest_s12_feat_win_dropzone",
+          "S12-Quest:quest_s12_feat_win_dropzone_many",
+          "S12-Quest:quest_s12_feat_win_knockout",
+          "S12-Quest:quest_s12_feat_win_knockout_many",
+          "S12-Quest:quest_s12_feat_blockdamage_unclebrolly",
+          "S12-Quest:quest_s12_feat_damage_unclebrolly",
+          "S12-Quest:quest_s12_feat_destroy_hoagie_mistybop",
+          "S12-Quest:quest_s12_feat_destroy_wall_donut",
+          "S12-Quest:quest_s12_feat_emote_donut",
+          "S12-Quest:quest_s12_feat_land_jerky",
+          "S12-Quest:quest_s12_feat_emote_jerky",
+          "S12-Quest:quest_s12_feat_bvg_battle",
+          "S12-Quest:quest_s12_feat_bvg_truce",
+          "S12-Quest:quest_s12_feat_locationdomination"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Feat_BundleSchedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Jerky",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Jerky",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_jerky_dance",
+          "S12-Quest:quest_jerky_bounce",
+          "S12-Quest:quest_jerky_visit"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Jerky_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01",
+        "templateId": "ChallengeBundle:MissionBundle_S12_LocationDomination_01",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_locationdomination_w1_q01a",
+          "S12-Quest:quest_s12_locationdomination_w1_q02a",
+          "S12-Quest:quest_s12_locationdomination_w1_q03a",
+          "S12-Quest:quest_s12_locationdomination_w1_q04a",
+          "S12-Quest:quest_s12_locationdomination_w1_q05a",
+          "S12-Quest:quest_s12_locationdomination_w1_q06a",
+          "S12-Quest:quest_s12_locationdomination_w1_q07a",
+          "S12-Quest:quest_s12_locationdomination_w1_q08a",
+          "S12-Quest:quest_s12_locationdomination_w1_q09a",
+          "S12-Quest:quest_s12_locationdomination_w1_q10a"
+        ],
+        "questStages": [
+          "S12-Quest:quest_s12_locationdomination_w1_q01b",
+          "S12-Quest:quest_s12_locationdomination_w1_q01c",
+          "S12-Quest:quest_s12_locationdomination_w1_q02b",
+          "S12-Quest:quest_s12_locationdomination_w1_q02c",
+          "S12-Quest:quest_s12_locationdomination_w1_q03b",
+          "S12-Quest:quest_s12_locationdomination_w1_q03c",
+          "S12-Quest:quest_s12_locationdomination_w1_q04b",
+          "S12-Quest:quest_s12_locationdomination_w1_q04c",
+          "S12-Quest:quest_s12_locationdomination_w1_q05b",
+          "S12-Quest:quest_s12_locationdomination_w1_q05c",
+          "S12-Quest:quest_s12_locationdomination_w1_q06b",
+          "S12-Quest:quest_s12_locationdomination_w1_q06c",
+          "S12-Quest:quest_s12_locationdomination_w1_q07b",
+          "S12-Quest:quest_s12_locationdomination_w1_q07c",
+          "S12-Quest:quest_s12_locationdomination_w1_q08b",
+          "S12-Quest:quest_s12_locationdomination_w1_q08c",
+          "S12-Quest:quest_s12_locationdomination_w1_q09b",
+          "S12-Quest:quest_s12_locationdomination_w1_q09c",
+          "S12-Quest:quest_s12_locationdomination_w1_q10b",
+          "S12-Quest:quest_s12_locationdomination_w1_q10c"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02",
+        "templateId": "ChallengeBundle:MissionBundle_S12_LocationDomination_02",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_locationdomination_w2_q01a",
+          "S12-Quest:quest_s12_locationdomination_w2_q02a",
+          "S12-Quest:quest_s12_locationdomination_w2_q03a",
+          "S12-Quest:quest_s12_locationdomination_w2_q04a",
+          "S12-Quest:quest_s12_locationdomination_w2_q05a",
+          "S12-Quest:quest_s12_locationdomination_w2_q06a",
+          "S12-Quest:quest_s12_locationdomination_w2_q07a",
+          "S12-Quest:quest_s12_locationdomination_w2_q08a",
+          "S12-Quest:quest_s12_locationdomination_w2_q09a",
+          "S12-Quest:quest_s12_locationdomination_w2_q10a"
+        ],
+        "questStages": [
+          "S12-Quest:quest_s12_locationdomination_w2_q01b",
+          "S12-Quest:quest_s12_locationdomination_w2_q01c",
+          "S12-Quest:quest_s12_locationdomination_w2_q02b",
+          "S12-Quest:quest_s12_locationdomination_w2_q02c",
+          "S12-Quest:quest_s12_locationdomination_w2_q03b",
+          "S12-Quest:quest_s12_locationdomination_w2_q03c",
+          "S12-Quest:quest_s12_locationdomination_w2_q04b",
+          "S12-Quest:quest_s12_locationdomination_w2_q04c",
+          "S12-Quest:quest_s12_locationdomination_w2_q05b",
+          "S12-Quest:quest_s12_locationdomination_w2_q05c",
+          "S12-Quest:quest_s12_locationdomination_w2_q06b",
+          "S12-Quest:quest_s12_locationdomination_w2_q06c",
+          "S12-Quest:quest_s12_locationdomination_w2_q07b",
+          "S12-Quest:quest_s12_locationdomination_w2_q07c",
+          "S12-Quest:quest_s12_locationdomination_w2_q08b",
+          "S12-Quest:quest_s12_locationdomination_w2_q08c",
+          "S12-Quest:quest_s12_locationdomination_w2_q09b",
+          "S12-Quest:quest_s12_locationdomination_w2_q09c",
+          "S12-Quest:quest_s12_locationdomination_w2_q10b",
+          "S12-Quest:quest_s12_locationdomination_w2_q10c"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_01",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_01",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w1_q01",
+          "S12-Quest:quest_s12_w1_q02",
+          "S12-Quest:quest_s12_w1_q03",
+          "S12-Quest:quest_s12_w1_q04",
+          "S12-Quest:quest_s12_w1_q05",
+          "S12-Quest:quest_s12_w1_q06",
+          "S12-Quest:quest_s12_w1_q07",
+          "S12-Quest:quest_s12_w1_q08",
+          "S12-Quest:quest_s12_w1_q09",
+          "S12-Quest:quest_s12_w1_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_02",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_02",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w2_q01",
+          "S12-Quest:quest_s12_w2_q02",
+          "S12-Quest:quest_s12_w2_q03",
+          "S12-Quest:quest_s12_w2_q04",
+          "S12-Quest:quest_s12_w2_q05",
+          "S12-Quest:quest_s12_w2_q06",
+          "S12-Quest:quest_s12_w2_q07",
+          "S12-Quest:quest_s12_w2_q08",
+          "S12-Quest:quest_s12_w2_q09",
+          "S12-Quest:quest_s12_w2_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_03",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_03",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w3_q01",
+          "S12-Quest:quest_s12_w3_q02",
+          "S12-Quest:quest_s12_w3_q03",
+          "S12-Quest:quest_s12_w3_q04",
+          "S12-Quest:quest_s12_w3_q05",
+          "S12-Quest:quest_s12_w3_q06",
+          "S12-Quest:quest_s12_w3_q07",
+          "S12-Quest:quest_s12_w3_q08",
+          "S12-Quest:quest_s12_w3_q09",
+          "S12-Quest:quest_s12_w3_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_04",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_04",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w4_q01",
+          "S12-Quest:quest_s12_w4_q02",
+          "S12-Quest:quest_s12_w4_q03",
+          "S12-Quest:quest_s12_w4_q04",
+          "S12-Quest:quest_s12_w4_q05",
+          "S12-Quest:quest_s12_w4_q06",
+          "S12-Quest:quest_s12_w4_q07",
+          "S12-Quest:quest_s12_w4_q08",
+          "S12-Quest:quest_s12_w4_q09",
+          "S12-Quest:quest_s12_w4_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_05",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_05",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w5_q01",
+          "S12-Quest:quest_s12_w5_q02",
+          "S12-Quest:quest_s12_w5_q03",
+          "S12-Quest:quest_s12_w5_q04",
+          "S12-Quest:quest_s12_w5_q05",
+          "S12-Quest:quest_s12_w5_q06",
+          "S12-Quest:quest_s12_w5_q07",
+          "S12-Quest:quest_s12_w5_q08",
+          "S12-Quest:quest_s12_w5_q09",
+          "S12-Quest:quest_s12_w5_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_06",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_06",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w6_q01",
+          "S12-Quest:quest_s12_w6_q02",
+          "S12-Quest:quest_s12_w6_q03",
+          "S12-Quest:quest_s12_w6_q04",
+          "S12-Quest:quest_s12_w6_q05",
+          "S12-Quest:quest_s12_w6_q06",
+          "S12-Quest:quest_s12_w6_q07",
+          "S12-Quest:quest_s12_w6_q08",
+          "S12-Quest:quest_s12_w6_q09",
+          "S12-Quest:quest_s12_w6_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_07",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_07",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w7_q01",
+          "S12-Quest:quest_s12_w7_q02",
+          "S12-Quest:quest_s12_w7_q03",
+          "S12-Quest:Quest_s12_w7_q04_HarvestAfterLanding",
+          "S12-Quest:quest_s12_w7_q05",
+          "S12-Quest:quest_s12_w7_q06",
+          "S12-Quest:quest_s12_w7_q07",
+          "S12-Quest:quest_s12_w7_q08",
+          "S12-Quest:quest_s12_w7_q09",
+          "S12-Quest:quest_s12_w7_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_08",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_08",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w8_q01",
+          "S12-Quest:quest_s12_w8_q02",
+          "S12-Quest:quest_s12_w8_q03",
+          "S12-Quest:quest_s12_w8_q04",
+          "S12-Quest:quest_s12_w8_q05",
+          "S12-Quest:quest_s12_w8_q06",
+          "S12-Quest:quest_s12_w8_q07",
+          "S12-Quest:quest_s12_w8_q08",
+          "S12-Quest:quest_s12_w8_q09",
+          "S12-Quest:quest_s12_w8_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_09",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_09",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w9_q01",
+          "S12-Quest:quest_s12_w9_q02",
+          "S12-Quest:quest_s12_w9_q03",
+          "S12-Quest:quest_s12_w9_q04",
+          "S12-Quest:quest_s12_w9_q05",
+          "S12-Quest:quest_s12_w9_q06",
+          "S12-Quest:quest_s12_w9_q07",
+          "S12-Quest:quest_s12_w9_q08",
+          "S12-Quest:quest_s12_w9_q09",
+          "S12-Quest:quest_s12_w9_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:MissionBundle_S12_Week_10",
+        "templateId": "ChallengeBundle:MissionBundle_S12_Week_10",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_w10_q01",
+          "S12-Quest:quest_s12_w10_q02",
+          "S12-Quest:quest_s12_w10_q03",
+          "S12-Quest:quest_s12_w10_q04",
+          "S12-Quest:quest_s12_w10_q05",
+          "S12-Quest:quest_s12_w10_q06",
+          "S12-Quest:quest_s12_w10_q07",
+          "S12-Quest:quest_s12_w10_q08",
+          "S12-Quest:quest_s12_w10_q09",
+          "S12-Quest:quest_s12_w10_q10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Mission_Schedule"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_01",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_01",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w1",
+          "S12-Quest:quest_s12_xpcoins_gold_w1",
+          "S12-Quest:quest_s12_xpcoins_green_w1",
+          "S12-Quest:quest_s12_xpcoins_purple_w1"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_02",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_02",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w2",
+          "S12-Quest:quest_s12_xpcoins_green_w2",
+          "S12-Quest:quest_s12_xpcoins_purple_w2"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_03",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_03",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w3",
+          "S12-Quest:quest_s12_xpcoins_gold_w3",
+          "S12-Quest:quest_s12_xpcoins_green_w3",
+          "S12-Quest:quest_s12_xpcoins_purple_w3"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_04",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_04",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w4",
+          "S12-Quest:quest_s12_xpcoins_green_w4",
+          "S12-Quest:quest_s12_xpcoins_purple_w4"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_05",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_05",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w5",
+          "S12-Quest:quest_s12_xpcoins_gold_w5",
+          "S12-Quest:quest_s12_xpcoins_green_w5",
+          "S12-Quest:quest_s12_xpcoins_purple_w5"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_06",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_06",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w6",
+          "S12-Quest:quest_s12_xpcoins_green_w6",
+          "S12-Quest:quest_s12_xpcoins_purple_w6"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_07",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_07",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w7",
+          "S12-Quest:quest_s12_xpcoins_gold_w7",
+          "S12-Quest:quest_s12_xpcoins_green_w7",
+          "S12-Quest:quest_s12_xpcoins_purple_w7"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_08",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_08",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w8",
+          "S12-Quest:quest_s12_xpcoins_green_w8",
+          "S12-Quest:quest_s12_xpcoins_purple_w8"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_09",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_09",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w9",
+          "S12-Quest:quest_s12_xpcoins_gold_w9",
+          "S12-Quest:quest_s12_xpcoins_green_w9",
+          "S12-Quest:quest_s12_xpcoins_purple_w9"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_10",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_10",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_s12_xpcoins_blue_w10",
+          "S12-Quest:quest_s12_xpcoins_green_w10",
+          "S12-Quest:quest_s12_xpcoins_purple_w10"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_CoinCollect"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_S12_Oro",
+        "templateId": "ChallengeBundle:QuestBundle_S12_Oro",
+        "grantedquestinstanceids": [
+          "S12-Quest:Quest_BR_Styles_Oro_Elimination_Assists",
+          "S12-Quest:Quest_BR_Styles_Oro_Play_with_Friend",
+          "S12-Quest:Quest_BR_Styles_Oro_Damage",
+          "S12-Quest:Quest_BR_Styles_Oro_Earn_Medals"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_Oro"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_PeelySpy",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_PeelySpy",
+        "grantedquestinstanceids": [
+          "S12-Quest:quest_peely_frontend_spy_01",
+          "S12-Quest:quest_peely_frontend_spy_02",
+          "S12-Quest:quest_peely_frontend_spy_03"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_PeelySpy"
+      },
+      {
+        "itemGuid": "S12-ChallengeBundle:QuestBundle_Event_S12_StormTheAgency",
+        "templateId": "ChallengeBundle:QuestBundle_Event_S12_StormTheAgency",
+        "grantedquestinstanceids": [
+          "S12-Quest:Quest_S12_StA_LandAgency",
+          "S12-Quest:Quest_S12_StA_SurviveStormCircles",
+          "S12-Quest:Quest_S12_StA_OpenFactionChestDifferentSpyBases",
+          "S12-Quest:Quest_S12_StA_SwimHatches",
+          "S12-Quest:Quest_S12_StA_ElimHenchmanDifferentSafehouses"
+        ],
+        "challenge_bundle_schedule_id": "S12-ChallengeBundleSchedule:Season12_Schedule_Event_StormTheAgency"
+      }
+    ],
+    "Quests": [
+      {
+        "itemGuid": "S12-Quest:quest_operation_damageplayers",
+        "templateId": "Quest:quest_operation_damageplayers",
+        "objectives": [
+          {
+            "name": "quest_operation_damageplayers_obj",
+            "count": 1000
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_SpyGames"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_operation_eliminateplayers",
+        "templateId": "Quest:quest_operation_eliminateplayers",
+        "objectives": [
+          {
+            "name": "quest_operation_eliminateplayers_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_SpyGames"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_operation_winmatch",
+        "templateId": "Quest:quest_operation_winmatch",
+        "objectives": [
+          {
+            "name": "quest_operation_winmatch_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_SpyGames"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_AB_photographer_alter",
+        "templateId": "Quest:quest_AB_photographer_alter",
+        "objectives": [
+          {
+            "name": "quest_AB_photographer_alter_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_AdventureGirl"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_AB_photographer_ego",
+        "templateId": "Quest:quest_AB_photographer_ego",
+        "objectives": [
+          {
+            "name": "quest_AB_photographer_ego_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_AdventureGirl"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_ab_buffcat_alter",
+        "templateId": "Quest:quest_ab_buffcat_alter",
+        "objectives": [
+          {
+            "name": "quest_ab_buffcat_alter_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_Meowscle"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_ab_buffcat_ego",
+        "templateId": "Quest:quest_ab_buffcat_ego",
+        "objectives": [
+          {
+            "name": "quest_ab_buffcat_ego_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_Meowscle"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_ab_midas_alter",
+        "templateId": "Quest:quest_ab_midas_alter",
+        "objectives": [
+          {
+            "name": "quest_ab_midas_alter_obj",
+            "count": 2
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_Midas"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_ab_midas_ego",
+        "templateId": "Quest:quest_ab_midas_ego",
+        "objectives": [
+          {
+            "name": "quest_ab_midas_ego_obj",
+            "count": 2
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_Midas"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_AB_skulldude_alter",
+        "templateId": "Quest:quest_AB_skulldude_alter",
+        "objectives": [
+          {
+            "name": "quest_AB_skulldude_alter_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_Skulldude"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_AB_skulldude_ego",
+        "templateId": "Quest:quest_AB_skulldude_ego",
+        "objectives": [
+          {
+            "name": "quest_AB_skulldude_ego_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_Skulldude"
+      },
+      {
+        "itemGuid": "S12-Quest:AB_tntina_alter",
+        "templateId": "Quest:AB_tntina_alter",
+        "objectives": [
+          {
+            "name": "AB_tntina_alter_obj",
+            "count": 2
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_TNTina"
+      },
+      {
+        "itemGuid": "S12-Quest:AB_tntina_ego",
+        "templateId": "Quest:AB_tntina_ego",
+        "objectives": [
+          {
+            "name": "AB_tntina_ego_obj",
+            "count": 2
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_AB_TNTina"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_style_superlevel_bananaAgent",
+        "templateId": "Quest:quest_style_superlevel_bananaAgent",
+        "objectives": [
+          {
+            "name": "quest_style_superlevel_banana_agent_obj",
+            "count": 300
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Superlevel"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_style_superlevel_buffcat",
+        "templateId": "Quest:quest_style_superlevel_buffcat",
+        "objectives": [
+          {
+            "name": "quest_style_superlevel_buffcat_obj",
+            "count": 180
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Superlevel"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_style_superlevel_midas",
+        "templateId": "Quest:quest_style_superlevel_midas",
+        "objectives": [
+          {
+            "name": "quest_style_superlevel_midas_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Superlevel"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_style_superlevel_photographer",
+        "templateId": "Quest:quest_style_superlevel_photographer",
+        "objectives": [
+          {
+            "name": "quest_style_superlevel_photographer_obj",
+            "count": 260
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Superlevel"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_style_superlevel_skulldude",
+        "templateId": "Quest:quest_style_superlevel_skulldude",
+        "objectives": [
+          {
+            "name": "quest_style_superlevel_skulldude_obj",
+            "count": 140
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Superlevel"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_style_superlevel_TNTina",
+        "templateId": "Quest:quest_style_superlevel_TNTina",
+        "objectives": [
+          {
+            "name": "quest_style_superlevel_tntina_obj",
+            "count": 220
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Superlevel"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_YachtChallenge",
+        "templateId": "Quest:Quest_S12_Donut_YachtChallenge",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_YachtChallenge",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_YachtChallenge"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W1_A",
+        "templateId": "Quest:Quest_S12_Donut_W1_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W1_A",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W1"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W1_B",
+        "templateId": "Quest:Quest_S12_Donut_W1_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W1_B",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W1"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W2_A",
+        "templateId": "Quest:Quest_S12_Donut_W2_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W2_A",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W2"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W2_B",
+        "templateId": "Quest:Quest_S12_Donut_W2_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W2_B_0",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W2_B_1",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W2_B_2",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W2"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W3_A",
+        "templateId": "Quest:Quest_S12_Donut_W3_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W3_A",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W3"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W3_B",
+        "templateId": "Quest:Quest_S12_Donut_W3_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W3_B",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W3"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W4_A",
+        "templateId": "Quest:Quest_S12_Donut_W4_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W4_A_0",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W4_A_1",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W4"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W4_B",
+        "templateId": "Quest:Quest_S12_Donut_W4_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W4_B",
+            "count": 10000
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W4"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W5_A",
+        "templateId": "Quest:Quest_S12_Donut_W5_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W5_A",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W5"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W5_B",
+        "templateId": "Quest:Quest_S12_Donut_W5_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W5_B_0",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W5_B_1",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W5_B_2",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W5_B_3",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W5_B_4",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W5"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W6_A",
+        "templateId": "Quest:Quest_S12_Donut_W6_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W6_A",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W6"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W6_B",
+        "templateId": "Quest:Quest_S12_Donut_W6_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W6_B",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W6"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W7_A",
+        "templateId": "Quest:Quest_S12_Donut_W7_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W7_A_0",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_Donut_W7_A_1",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W7"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W7_B",
+        "templateId": "Quest:Quest_S12_Donut_W7_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W7_B",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W7"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W7_A_ToastForInGame",
+        "templateId": "Quest:Quest_S12_Donut_W7_A_ToastForInGame",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W7_A_ToastForInGame",
+            "count": 2
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W7_A_ToastForInGame"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W7_Dummy",
+        "templateId": "Quest:Quest_S12_Donut_W7_Dummy",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W7_Dummy",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W7_Dummy"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W8_A",
+        "templateId": "Quest:Quest_S12_Donut_W8_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W8_A",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W8"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W8_B",
+        "templateId": "Quest:Quest_S12_Donut_W8_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W8_B",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W8"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W9_A",
+        "templateId": "Quest:Quest_S12_Donut_W9_A",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W9_A",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W9"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_Donut_W9_B",
+        "templateId": "Quest:Quest_S12_Donut_W9_B",
+        "objectives": [
+          {
+            "name": "Quest_S12_Donut_W9_B",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Donut_W9"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_jerky_bounce",
+        "templateId": "Quest:quest_jerky_bounce",
+        "objectives": [
+          {
+            "name": "quest_jerky_bounce_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_jerky_bounce_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_jerky_bounce_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_jerky_bounce_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_jerky_bounce_obj05",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Jerky"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_jerky_dance",
+        "templateId": "Quest:quest_jerky_dance",
+        "objectives": [
+          {
+            "name": "quest_jerky_dance_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Jerky"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_jerky_visit",
+        "templateId": "Quest:quest_jerky_visit",
+        "objectives": [
+          {
+            "name": "quest_jerky_visit_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Jerky"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q01a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q01a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q01a_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q01b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q01b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q01b_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q01c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q01c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q01c_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q02a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q02a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q02a_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q02b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q02b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q02b_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q02c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q02c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q02c_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q03a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q03a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q03a_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q03b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q03b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q03b_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q03c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q03c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q03c_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q04a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q04a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q04a_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q04b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q04b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q04b_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q04c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q04c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q04c_obj",
+            "count": 15
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q05a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q05a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q05a_obj",
+            "count": 500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q05b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q05b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q05b_obj",
+            "count": 1500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q05c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q05c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q05c_obj",
+            "count": 10000
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q06a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q06a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q06a_obj",
+            "count": 250
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q06b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q06b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q06b_obj",
+            "count": 750
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q06c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q06c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q06c_obj",
+            "count": 1500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q07a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q07a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q07a_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q07b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q07b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q07b_obj",
+            "count": 15
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q07c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q07c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q07c_obj",
+            "count": 30
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q08a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q08a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q08a_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q08b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q08b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q08b_obj",
+            "count": 15
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q08c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q08c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q08c_obj",
+            "count": 30
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q09a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q09a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q09a_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q09b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q09b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q09b_obj",
+            "count": 25
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q09c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q09c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q09c_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q10a",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q10a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q10a_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q10b",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q10b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q10b_obj",
+            "count": 6
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w1_q10c",
+        "templateId": "Quest:quest_s12_locationdomination_w1_q10c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w1_q10c_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q01a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q01a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q01a_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q01b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q01b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q01b_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q01c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q01c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q01c_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q02a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q02a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q02a_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q02b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q02b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q02b_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q02c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q02c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q02c_obj",
+            "count": 18
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q03a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q03a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q03a_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q03b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q03b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q03b_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q03c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q03c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q03c_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q04a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q04a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q04a_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q04b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q04b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q04b_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q04c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q04c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q04c_obj",
+            "count": 18
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q05a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q05a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q05a_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q05b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q05b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q05b_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q05c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q05c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q05c_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q06a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q06a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q06a_obj",
+            "count": 500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q06b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q06b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q06b_obj",
+            "count": 1500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q06c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q06c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q06c_obj",
+            "count": 3000
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q07a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q07a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q07a_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q07b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q07b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q07b_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q07c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q07c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q07c_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q08a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q08a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q08a_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q08b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q08b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q08b_obj",
+            "count": 250
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q08c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q08c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q08c_obj",
+            "count": 500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q09a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q09a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q09a_obj",
+            "count": 300
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q09b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q09b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q09b_obj",
+            "count": 900
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q09c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q09c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q09c_obj",
+            "count": 2500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q10a",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q10a",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q10a_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q10b",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q10b",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q10b_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_locationdomination_w2_q10c",
+        "templateId": "Quest:quest_s12_locationdomination_w2_q10c",
+        "objectives": [
+          {
+            "name": "quest_s12_locationdomination_w2_q10c_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_LocationDomination_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q01",
+        "templateId": "Quest:quest_s12_w1_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q01_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q02",
+        "templateId": "Quest:quest_s12_w1_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q02_obj",
+            "count": 2000
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q03",
+        "templateId": "Quest:quest_s12_w1_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q03_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q04",
+        "templateId": "Quest:quest_s12_w1_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q04_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q05",
+        "templateId": "Quest:quest_s12_w1_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q05_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q06",
+        "templateId": "Quest:quest_s12_w1_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q06_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q07",
+        "templateId": "Quest:quest_s12_w1_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q07_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q07_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q07_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q08_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q09_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q07_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q07_obj07",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q08",
+        "templateId": "Quest:quest_s12_w1_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q08_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q09",
+        "templateId": "Quest:quest_s12_w1_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q09_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q09_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w1_q09_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w1_q10",
+        "templateId": "Quest:quest_s12_w1_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w1_q10_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q01",
+        "templateId": "Quest:quest_s12_w2_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q01_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w2_q01_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w2_q01_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w2_q01_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w2_q01_obj05",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q02",
+        "templateId": "Quest:quest_s12_w2_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q02_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q03",
+        "templateId": "Quest:quest_s12_w2_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q03_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q04",
+        "templateId": "Quest:quest_s12_w2_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q04_obj",
+            "count": 50
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q05",
+        "templateId": "Quest:quest_s12_w2_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q05_obj",
+            "count": 250
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q06",
+        "templateId": "Quest:quest_s12_w2_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q06_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q07",
+        "templateId": "Quest:quest_s12_w2_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q07_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q08",
+        "templateId": "Quest:quest_s12_w2_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q08_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q09",
+        "templateId": "Quest:quest_s12_w2_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q09_obj",
+            "count": 200
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w2_q10",
+        "templateId": "Quest:quest_s12_w2_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w2_q10_obj01",
+            "count": 300
+          },
+          {
+            "name": "quest_s12_w2_q10_obj02",
+            "count": 400
+          },
+          {
+            "name": "quest_s12_w2_q10_obj03",
+            "count": 500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q01",
+        "templateId": "Quest:quest_s12_w3_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q01_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q02",
+        "templateId": "Quest:quest_s12_w3_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q02_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q03",
+        "templateId": "Quest:quest_s12_w3_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q03_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q04",
+        "templateId": "Quest:quest_s12_w3_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q04_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q05",
+        "templateId": "Quest:quest_s12_w3_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q05_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj12",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj13",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj14",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj15",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj16",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj17",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj18",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj19",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj20",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj21",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj22",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj23",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj24",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj25",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj26",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj27",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj28",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj29",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj30",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj31",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj32",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj33",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj34",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj35",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj36",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj37",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj38",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj39",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj40",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj41",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj42",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj43",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj44",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj45",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj46",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj47",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj48",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj49",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj50",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj51",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj52",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj53",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj54",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj55",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj56",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj57",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj58",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj59",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj60",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj61",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj62",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj63",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj64",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj65",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj66",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj67",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj68",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj69",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj70",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj71",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj72",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj73",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj75",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj76",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj77",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj78",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w3_q05_obj79",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q06",
+        "templateId": "Quest:quest_s12_w3_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q06_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q07",
+        "templateId": "Quest:quest_s12_w3_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q07_obj",
+            "count": 500
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q08",
+        "templateId": "Quest:quest_s12_w3_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q07_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q07_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q07_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q09",
+        "templateId": "Quest:quest_s12_w3_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q09_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w3_q10",
+        "templateId": "Quest:quest_s12_w3_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w3_q10_obj",
+            "count": 2
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q01",
+        "templateId": "Quest:quest_s12_w4_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q01_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q02",
+        "templateId": "Quest:quest_s12_w4_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q02_obj",
+            "count": 20
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q03",
+        "templateId": "Quest:quest_s12_w4_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q03_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q04",
+        "templateId": "Quest:quest_s12_w4_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q04_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q05",
+        "templateId": "Quest:quest_s12_w4_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q05_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj12",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj13",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj14",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj15",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj16",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj17",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj18",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q05_obj19",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q06",
+        "templateId": "Quest:quest_s12_w4_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q06_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q07",
+        "templateId": "Quest:quest_s12_w4_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q07_obj",
+            "count": 200
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q08",
+        "templateId": "Quest:quest_s12_w4_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q08_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q09",
+        "templateId": "Quest:quest_s12_w4_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q09_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q09_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q09_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w4_q10",
+        "templateId": "Quest:quest_s12_w4_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w4_q10_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q10_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q10_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q10_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q10_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w4_q10_obj06",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q01",
+        "templateId": "Quest:quest_s12_w5_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q01_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q02",
+        "templateId": "Quest:quest_s12_w5_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q02_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q03",
+        "templateId": "Quest:quest_s12_w5_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q03_obj",
+            "count": 400
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q04",
+        "templateId": "Quest:quest_s12_w5_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q04_obj",
+            "count": 200
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q05",
+        "templateId": "Quest:quest_s12_w5_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q05_obj",
+            "count": 9
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q06",
+        "templateId": "Quest:quest_s12_w5_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q06_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q07",
+        "templateId": "Quest:quest_s12_w5_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q07_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w5_q07_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w5_q07_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q08",
+        "templateId": "Quest:quest_s12_w5_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q08_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q09",
+        "templateId": "Quest:quest_s12_w5_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q09_obj",
+            "count": 400
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w5_q10",
+        "templateId": "Quest:quest_s12_w5_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q09_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w6_q09_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w6_q09_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q01",
+        "templateId": "Quest:quest_s12_w6_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q01_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q02",
+        "templateId": "Quest:quest_s12_w6_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q02_obj",
+            "count": 1000
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q03",
+        "templateId": "Quest:quest_s12_w6_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q03_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q04",
+        "templateId": "Quest:quest_s12_w6_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q04_obj",
+            "count": 200
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q05",
+        "templateId": "Quest:quest_s12_w6_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q05_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w6_q05_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w6_q05_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q06",
+        "templateId": "Quest:quest_s12_w6_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q06_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q07",
+        "templateId": "Quest:quest_s12_w6_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q07_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q08",
+        "templateId": "Quest:quest_s12_w6_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q08_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q09",
+        "templateId": "Quest:quest_s12_w6_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w5_q10_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w5_q10_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w5_q10_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w6_q10",
+        "templateId": "Quest:quest_s12_w6_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w6_q10_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w6_q10_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w6_q10_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q01",
+        "templateId": "Quest:quest_s12_w7_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q01_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q02",
+        "templateId": "Quest:quest_s12_w7_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q02_obj",
+            "count": 400
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q03",
+        "templateId": "Quest:quest_s12_w7_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q03_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q03_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q03_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_s12_w7_q04_HarvestAfterLanding",
+        "templateId": "Quest:Quest_s12_w7_q04_HarvestAfterLanding",
+        "objectives": [
+          {
+            "name": "w7_q4_harvest_afterjumping_wood",
+            "count": 75
+          },
+          {
+            "name": "w7_q4_harvest_afterjumping_stone",
+            "count": 75
+          },
+          {
+            "name": "w7_q4_harvest_afterjumping_metal",
+            "count": 75
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q05",
+        "templateId": "Quest:quest_s12_w7_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q05_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q06",
+        "templateId": "Quest:quest_s12_w7_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q06_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q07",
+        "templateId": "Quest:quest_s12_w7_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q07_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q07_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q07_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q08",
+        "templateId": "Quest:quest_s12_w7_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q08_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q09",
+        "templateId": "Quest:quest_s12_w7_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q09_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q09_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q09_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q09_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w7_q09_obj05",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w7_q10",
+        "templateId": "Quest:quest_s12_w7_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w7_q10_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q01",
+        "templateId": "Quest:quest_s12_w8_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q01_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q02",
+        "templateId": "Quest:quest_s12_w8_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q02_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q03",
+        "templateId": "Quest:quest_s12_w8_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q03_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q04",
+        "templateId": "Quest:quest_s12_w8_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q04_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q04_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q04_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q05",
+        "templateId": "Quest:quest_s12_w8_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q05_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q05_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q05_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q06",
+        "templateId": "Quest:quest_s12_w8_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q06_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q06_obj02",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q07",
+        "templateId": "Quest:quest_s12_w8_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q07_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q08",
+        "templateId": "Quest:quest_s12_w8_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q08_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj12",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj13",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj14",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w8_q08_obj15",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q09",
+        "templateId": "Quest:quest_s12_w8_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q09_obj",
+            "count": 200
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w8_q10",
+        "templateId": "Quest:quest_s12_w8_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w8_q10_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q01",
+        "templateId": "Quest:quest_s12_w9_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q01_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj12",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj13",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj14",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj15",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj16",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj17",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj18",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w9_q01_obj19",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q02",
+        "templateId": "Quest:quest_s12_w9_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q02_obj",
+            "count": 300
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q03",
+        "templateId": "Quest:quest_s12_w9_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q03_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q04",
+        "templateId": "Quest:quest_s12_w9_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q04_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q05",
+        "templateId": "Quest:quest_s12_w9_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q05_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q06",
+        "templateId": "Quest:quest_s12_w9_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q06_obj",
+            "count": 5
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q07",
+        "templateId": "Quest:quest_s12_w9_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q07_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q08",
+        "templateId": "Quest:quest_s12_w9_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q08_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q09",
+        "templateId": "Quest:quest_s12_w9_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q09_obj",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w9_q10",
+        "templateId": "Quest:quest_s12_w9_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w9_q10_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q01",
+        "templateId": "Quest:quest_s12_w10_q01",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q01_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q01_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q01_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q02",
+        "templateId": "Quest:quest_s12_w10_q02",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q02_obj",
+            "count": 7
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q03",
+        "templateId": "Quest:quest_s12_w10_q03",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q03_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q04",
+        "templateId": "Quest:quest_s12_w10_q04",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q04_obj",
+            "count": 200
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q05",
+        "templateId": "Quest:quest_s12_w10_q05",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q05_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q06",
+        "templateId": "Quest:quest_s12_w10_q06",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q06_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q06_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q06_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q06_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q06_obj05",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q07",
+        "templateId": "Quest:quest_s12_w10_q07",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q07_obj",
+            "count": 3
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q08",
+        "templateId": "Quest:quest_s12_w10_q08",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q08_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q08_obj02",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q09",
+        "templateId": "Quest:quest_s12_w10_q09",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q09_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q09_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_w10_q09_obj03",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_w10_q10",
+        "templateId": "Quest:quest_s12_w10_q10",
+        "objectives": [
+          {
+            "name": "quest_s12_w10_q10_obj",
+            "count": 100
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:MissionBundle_S12_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w1",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w1",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w1_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w1_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w1_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w1_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_gold_w1",
+        "templateId": "Quest:quest_s12_xpcoins_gold_w1",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_gold_w1_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w1",
+        "templateId": "Quest:quest_s12_xpcoins_green_w1",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w1_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w1",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w1",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w1_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w1_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w1_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w1_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_01"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w2",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w2",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w2_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w2_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w2_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w2_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w2",
+        "templateId": "Quest:quest_s12_xpcoins_green_w2",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w2_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w2",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w2",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w2_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w2_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w2_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w2_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_02"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w3",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w3",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w3_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w3_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w3_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w3_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_gold_w3",
+        "templateId": "Quest:quest_s12_xpcoins_gold_w3",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_gold_w3_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w3",
+        "templateId": "Quest:quest_s12_xpcoins_green_w3",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w3_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w3",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w3",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w3_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w3_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w3_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w3_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_03"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w4",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w4",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w4_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w4_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w4_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w4_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w4",
+        "templateId": "Quest:quest_s12_xpcoins_green_w4",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w4_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w4",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w4",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w4_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w4_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w4_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w4_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_04"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w5",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w5",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w5_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w5_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w5_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w5_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_gold_w5",
+        "templateId": "Quest:quest_s12_xpcoins_gold_w5",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_gold_w5_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w5",
+        "templateId": "Quest:quest_s12_xpcoins_green_w5",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w5_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w5",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w5",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w5_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w5_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w5_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w5_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_05"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w6",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w6",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w6_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w6_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w6_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w6_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w6",
+        "templateId": "Quest:quest_s12_xpcoins_green_w6",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w6_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w6",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w6",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w6_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w6_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w6_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w6_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_06"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w7",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w7",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w7_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w7_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w7_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w7_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_gold_w7",
+        "templateId": "Quest:quest_s12_xpcoins_gold_w7",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_gold_w7_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w7",
+        "templateId": "Quest:quest_s12_xpcoins_green_w7",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w7_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w7",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w7",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w7_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w7_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w7_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w7_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_07"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w8",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w8",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w8_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w8_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w8_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w8_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w8",
+        "templateId": "Quest:quest_s12_xpcoins_green_w8",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w8_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w8",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w8",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w8_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w8_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w8_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w8_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_08"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w9",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w9",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w9_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w9_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w9_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w9_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_gold_w9",
+        "templateId": "Quest:quest_s12_xpcoins_gold_w9",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_gold_w9_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w9",
+        "templateId": "Quest:quest_s12_xpcoins_green_w9",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w9_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w9",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w9",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w9_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w9_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w9_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w9_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_09"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_blue_w10",
+        "templateId": "Quest:quest_s12_xpcoins_blue_w10",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_blue_w10_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w10_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w10_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_blue_w10_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_green_w10",
+        "templateId": "Quest:quest_s12_xpcoins_green_w10",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj04",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj05",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj06",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj07",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj08",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj09",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj10",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj11",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_green_w10_obj12",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_s12_xpcoins_purple_w10",
+        "templateId": "Quest:quest_s12_xpcoins_purple_w10",
+        "objectives": [
+          {
+            "name": "quest_s12_xpcoins_purple_w10_obj01",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w10_obj02",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w10_obj03",
+            "count": 1
+          },
+          {
+            "name": "quest_s12_xpcoins_purple_w10_obj04",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_CoinCollectXP_Week_10"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_BR_Styles_Oro_Damage",
+        "templateId": "Quest:Quest_BR_Styles_Oro_Damage",
+        "objectives": [
+          {
+            "name": "athena_oro_damage",
+            "count": 1000
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Oro"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_BR_Styles_Oro_Earn_Medals",
+        "templateId": "Quest:Quest_BR_Styles_Oro_Earn_Medals",
+        "objectives": [
+          {
+            "name": "athena_oro_earn_accolades",
+            "count": 40
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Oro"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_BR_Styles_Oro_Elimination_Assists",
+        "templateId": "Quest:Quest_BR_Styles_Oro_Elimination_Assists",
+        "objectives": [
+          {
+            "name": "athena_oro_elimination_assists",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Oro"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_BR_Styles_Oro_Play_with_Friend",
+        "templateId": "Quest:Quest_BR_Styles_Oro_Play_with_Friend",
+        "objectives": [
+          {
+            "name": "athena_oro_play_w_frient",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_S12_Oro"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_peely_frontend_spy_01",
+        "templateId": "Quest:quest_peely_frontend_spy_01",
+        "objectives": [
+          {
+            "name": "quest_peely_frontend_spy_01_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_PeelySpy"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_peely_frontend_spy_02",
+        "templateId": "Quest:quest_peely_frontend_spy_02",
+        "objectives": [
+          {
+            "name": "quest_peely_frontend_spy_02_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_PeelySpy"
+      },
+      {
+        "itemGuid": "S12-Quest:quest_peely_frontend_spy_03",
+        "templateId": "Quest:quest_peely_frontend_spy_03",
+        "objectives": [
+          {
+            "name": "quest_peely_frontend_spy_03_obj",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_PeelySpy"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_StA_ElimHenchmanDifferentSafehouses",
+        "templateId": "Quest:Quest_S12_StA_ElimHenchmanDifferentSafehouses",
+        "objectives": [
+          {
+            "name": "Quest_S12_StA_ElimHenchmanDifferentSafehouses_0",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_ElimHenchmanDifferentSafehouses_1",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_ElimHenchmanDifferentSafehouses_2",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_ElimHenchmanDifferentSafehouses_3",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_ElimHenchmanDifferentSafehouses_4",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_StormTheAgency"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_StA_LandAgency",
+        "templateId": "Quest:Quest_S12_StA_LandAgency",
+        "objectives": [
+          {
+            "name": "Quest_S12_StA_LandAgency",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_StormTheAgency"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_StA_OpenFactionChestDifferentSpyBases",
+        "templateId": "Quest:Quest_S12_StA_OpenFactionChestDifferentSpyBases",
+        "objectives": [
+          {
+            "name": "Quest_S12_StA_OpenFactionChestDifferentSpyBases_0",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_OpenFactionChestDifferentSpyBases_1",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_OpenFactionChestDifferentSpyBases_2",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_OpenFactionChestDifferentSpyBases_3",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_OpenFactionChestDifferentSpyBases_4",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_StormTheAgency"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_StA_SurviveStormCircles",
+        "templateId": "Quest:Quest_S12_StA_SurviveStormCircles",
+        "objectives": [
+          {
+            "name": "Quest_S12_StA_SurviveStormCircles",
+            "count": 10
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_StormTheAgency"
+      },
+      {
+        "itemGuid": "S12-Quest:Quest_S12_StA_SwimHatches",
+        "templateId": "Quest:Quest_S12_StA_SwimHatches",
+        "objectives": [
+          {
+            "name": "Quest_S12_StA_SwimHatches_0",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_SwimHatches_1",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_SwimHatches_2",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_SwimHatches_3",
+            "count": 1
+          },
+          {
+            "name": "Quest_S12_StA_SwimHatches_4",
+            "count": 1
+          }
+        ],
+        "challenge_bundle_id": "S12-ChallengeBundle:QuestBundle_Event_S12_StormTheAgency"
+      }
+    ]
+  }
+}

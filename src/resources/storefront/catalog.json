@@ -1,0 +1,453 @@
+{
+  "refreshIntervalHrs": 1,
+  "dailyPurchaseHrs": 10000,
+  "expiration": "2023-10-20T11:00:00.000Z",
+  "storefronts": [
+    {
+      "name": "BRStarterKits",
+      "catalogEntries": []
+    },
+    {
+      "name": "BRDailyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "AthenaGlider:Glider_ID_103_Nautilus",
+          "offerId": "4KK8JQVWTQZLMY2AUU0Q",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 1200,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaGlider:Glider_ID_103_Nautilus",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaGlider:Glider_ID_103_Nautilus",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
+          "offerId": "INAGBDYHV7XKNLATPWX",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 1200,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H",
+          "offerId": "SV7HQ4HLJS1UYNMBPJU",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 800,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_393_Athena_Commando_M_Shiny",
+          "offerId": "7ULAXD16YZDQBK0LPC",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 1500,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_393_Athena_Commando_M_Shiny",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_393_Athena_Commando_M_Shiny",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaDance:EID_Saxophone",
+          "offerId": "EXSHFF05EYUVAN5H4E",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 800,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:EID_Saxophone",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:EID_Saxophone",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_327_GalileoKayak_50NFG",
+          "offerId": "3EGO1MJMEPUSWNIVZWX",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 800,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_327_GalileoKayak_50NFG",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_327_GalileoKayak_50NFG",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        }
+      ]
+    },
+    {
+      "name": "BRWeeklyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "AthenaCharacter:CID_482_Athena_Commando_F_PizzaPit",
+          "offerId": "FM6GAOANN2QFLTVR2K",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 1500,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_482_Athena_Commando_F_PizzaPit",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_482_Athena_Commando_F_PizzaPit",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar",
+          "offerId": "JDCLPHPOHV9XL3SOEAM",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 1500,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_187_Athena_Commando_F_FuzzyBearPanda",
+          "offerId": "WWYBMR8NT8NIAFEZHMFK",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 2800,
+              "saleExpiration": "2023-10-20T11:00:00.000Z",
+              "basePrice": 0
+            }
+          ],
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_187_Athena_Commando_F_FuzzyBearPanda",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_187_Athena_Commando_F_FuzzyBearPanda",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [],
+          "displayAssetPath": "",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_187_Athena_Commando_F_FuzzyBearPanda",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaCharacter:CID_187_Athena_Commando_F_FuzzyBearPanda",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        }
+      ]
+    }
+  ]
+}
